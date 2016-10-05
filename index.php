@@ -12,6 +12,7 @@
   $json = str_replace(')', '', $json);
   $return_obj = json_decode($json);
   $monitorData = $return_obj->monitors->monitor[0];
+  $monitorData->responsetime = array_reverse($monitorData->responsetime);
 ?>
 <html>
 	<head>
