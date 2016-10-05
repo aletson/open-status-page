@@ -7,5 +7,8 @@ This site works fine on PHP 7.0; I'm sure it'll work on previous versions too, b
 
 You should probably also make sure that you have an Uptime Robot monitor created first.
 
+## Licensing
+This project is licensed under the CC-BY-NC license, which prohibits commercial use. For commercial licensing, please [contact me](https://www.andrewletson.com/contact-me/).
+
 ## TODO
 Add database-driven stuff so that you're not hitting the Uptime Robot API every time you load the page
