@@ -53,7 +53,7 @@
             }
             $avgResp = $avgResp / $count;
           ?>
-					<h4 style="text-align: center">Average response time: <?=$avgResp;?> ms
+					<h4 style="text-align: center">Average response time: <?=$avgResp;?> ms</h4>
 					<canvas id="uptime-chart"></canvas>
 					<h4 style="text-align: center"><?=$monitorData->alltimeuptimeratio;?>% uptime</h4>
 				</div>
