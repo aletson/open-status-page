@@ -60,7 +60,7 @@
 				</div>
 				<div class="col-md-6">		
 					<h3>Maintenance announcements and updates</h3>
-					<a class="twitter-timeline" href="https://twitter.com/<?=$twUser;?>">Tweets by @<?=$twUser;?></a>
+					<a class="twitter-timeline" data-tweet-limit="5" href="https://twitter.com/<?=$twUser;?>">Tweets by @<?=$twUser;?></a>
 					<a class="twitter-follow-button" href="https://twitter.com/<?=$twUser;?>">Follow @<?=$twUser;?></a>
 				</div>
 			</div>
