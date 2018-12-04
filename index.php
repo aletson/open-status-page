@@ -65,7 +65,7 @@
 				</div>
 			</div>
 			<div id="footer">
-        <p class="text-muted credit">Made with &hearts; by <a href="https://github.com/velinath/open-status-page">@velinath</a></p>
+        <p class="text-muted credit">Made with &hearts; by <a href="https://github.com/aletson/open-status-page">@aletson</a></p>
       </div>
 		</div>
 		<script>
